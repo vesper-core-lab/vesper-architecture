@@ -1,0 +1,9 @@
+{
+  "creator_id": "creator_demo_001",
+  "name": "Demo Creator",
+  "platform": "TikTok",
+  "region": "US",
+  "status": "active",
+  "tags": ["beauty", "lifestyle", "demo"],
+  "notes": "This is a synthetic example for public documentation."
+}
