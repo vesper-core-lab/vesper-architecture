@@ -20,10 +20,11 @@ Input Adapters
 → Guardrail / Governor
 → Execution Skills
 → Feedback Memory
+```
 
 The goal is to help organizations operate with structured AI workflows, traceable decisions, modular industry objects, and governed execution.
 
-Why Governance Matters
+## Why Governance Matters
 
 Most AI agents focus on autonomy.
 
