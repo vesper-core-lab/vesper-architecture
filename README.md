@@ -15,6 +15,7 @@ This repository is organized as follows:
 - [Governance-First Design](docs/03-governance-first.md)
 - [Public Roadmap](docs/04-roadmap.md)
 - [Object System](docs/05-object-system.md)
+- [Public Boundary](docs/06-public-boundary.md)
 - [First Build Log](build-log/2026-04-28-github-init.md)
 - [MCN Demo Examples](examples/mcn-demo)
 
