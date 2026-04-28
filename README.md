@@ -6,6 +6,30 @@ This repository contains public architecture notes, design principles, non-sensi
 
 The core implementation is currently private while the system is under active prototyping.
 
+## Repository Map
+
+This repository is organized as follows:
+
+- [Vision](docs/01-vision.md)
+- [Architecture](docs/02-architecture.md)
+- [Governance-First Design](docs/03-governance-first.md)
+- [Public Roadmap](docs/04-roadmap.md)
+- [Object System](docs/05-object-system.md)
+- [First Build Log](build-log/2026-04-28-github-init.md)
+- [MCN Demo Examples](examples/mcn-demo)
+
+## Current Public Materials
+
+The current public materials include:
+
+- High-level Vesper vision
+- Layered architecture direction
+- Governance-first design principles
+- Public roadmap
+- Object System explanation
+- Synthetic MCN object examples
+- Build log for public documentation setup
+
 ## What is Vesper?
 
 Vesper is not designed as a simple chatbot.
