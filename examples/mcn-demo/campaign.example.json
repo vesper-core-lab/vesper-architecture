@@ -1,0 +1,10 @@
+{
+  "campaign_id": "campaign_demo_001",
+  "name": "Demo Campaign",
+  "platform": "TikTok",
+  "region": "US",
+  "status": "planning",
+  "linked_creators": ["creator_demo_001"],
+  "linked_products": ["product_demo_001"],
+  "notes": "This is a synthetic example for public documentation."
+}
