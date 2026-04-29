@@ -2,7 +2,7 @@
 
 This folder contains synthetic, non-sensitive demos for Vesper's MCN LiveOps direction.
 
-These demos show how Vesper may support object-based workflows, livestream session modeling, stream metrics, feedback records, follow-up tasks, weekly reports, and operational memory.
+These demos show how Vesper may support object-based workflows, livestream session modeling, stream metrics, feedback records, follow-up tasks, weekly reports, campaign workflows, and operational memory.
 
 This folder does not include real customer data, real partner information, internal screenshots, raw interviews, production configurations, server paths, or confidential business workflows.
 
@@ -62,6 +62,37 @@ Vesper should not only store livestream records.
 
 It should help transform multiple operational records into structured weekly intelligence.
 
+### 3. Product to Campaign Workflow Demo
+
+File:
+
+```text
+04-product-to-campaign-workflow-demo.md
+```
+
+This demo shows how Vesper may connect a product, campaign, creator task, livestream session, performance metrics, feedback, report, and follow-up task into a structured workflow.
+
+It includes:
+
+- Product
+- Account
+- Campaign
+- Creator / Host
+- Assistant / Operator
+- Campaign Task
+- LiveSession
+- StreamMetric
+- FeedbackRecord
+- Campaign Report
+- Follow-up Task
+- Missing link example
+
+Core idea:
+
+Vesper should not only store separate records.
+
+It should connect business objects into governed operational workflows.
+
 ## Demo Principles
 
 All demos in this folder should follow these principles:
@@ -93,7 +124,6 @@ It does not include:
 
 Future public demos may include:
 
-- Product-to-campaign workflow
 - Host training feedback workflow
 - Assistant data quality workflow
 - Weekly people and training review
@@ -101,6 +131,8 @@ Future public demos may include:
 - SOP improvement from repeated issues
 - Report-to-task workflow
 - Approval boundary demo
+- Cost and profit snapshot demo
+- Campaign performance comparison demo
 
 ## Status
 
