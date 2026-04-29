@@ -1,0 +1,9 @@
+{
+  "product_id": "product_demo_001",
+  "name": "Demo Product",
+  "category": "Beauty",
+  "target_region": "US",
+  "status": "testing",
+  "campaigns": ["campaign_demo_001"],
+  "notes": "This is a synthetic example for public documentation."
+}
