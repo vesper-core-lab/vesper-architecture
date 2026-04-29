@@ -1,4 +1,19 @@
-# MCN Demo Gallery
+## Why MCN?
+
+MCN / cross-border e-commerce is used here as the first operational testbed for Vesper.
+
+It is not the boundary of Vesper.
+
+The same core pattern can be extended to other domains:
+
+Human intent
+→ Operational objects
+→ Reports
+→ Tasks
+→ Approval
+→ Memory
+
+This demo uses livestream operations only because it is concrete, measurable, and easy to understand.# MCN Demo Gallery
 
 This folder contains synthetic, non-sensitive demos for Vesper's MCN LiveOps direction.
 
