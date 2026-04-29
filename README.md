@@ -34,6 +34,10 @@ These demos do not include real customer data, real partner information, interna
 
   Shows how Vesper may connect assistant work, livestream data entry, missing fields, data quality checks, review tasks, SOP improvement, training tasks, and operational memory.
 
+- [Report to Task Workflow Demo](examples/mcn-demo/07-report-to-task-workflow-demo.md)
+
+  Shows how Vesper may transform weekly report findings into structured tasks, training tasks, SOP improvement tasks, approval checkpoints, and operational memory.
+
 ### Public Demo Direction
 
 The public demo gallery is designed to show Vesper's direction without exposing private implementation details.
@@ -50,13 +54,15 @@ Current demo focus:
 - Weekly reporting
 - Host training feedback
 - Assistant data quality governance
+- Report-to-task loops
 - SOP improvement
+- Approval checkpoints
 - Review snapshots
 - Operational memory direction
 
 The goal is to demonstrate that Vesper is not a simple chatbot.
 
-Vesper is designed to help structure operational workflows around people, objects, events, reports, decisions, tasks, feedback, SOPs, data quality checks, and memory.
+Vesper is designed to help structure operational workflows around people, objects, events, reports, decisions, tasks, feedback, SOPs, data quality checks, approval checkpoints, and memory.
 
 ## Repository Map
 
