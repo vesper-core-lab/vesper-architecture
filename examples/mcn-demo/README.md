@@ -2,7 +2,7 @@
 
 This folder contains synthetic, non-sensitive demos for Vesper's MCN LiveOps direction.
 
-These demos show how Vesper may support object-based workflows, livestream session modeling, stream metrics, feedback records, follow-up tasks, weekly reports, campaign workflows, people training, assistant data quality, SOP improvement, and operational memory.
+These demos show how Vesper may support object-based workflows, livestream session modeling, stream metrics, feedback records, follow-up tasks, weekly reports, campaign workflows, people training, assistant data quality, report-to-task loops, SOP improvement, approval checkpoints, and operational memory.
 
 This folder does not include real customer data, real partner information, internal screenshots, raw interviews, salary details, recruiting channels, production configurations, server paths, or confidential business workflows.
 
@@ -152,6 +152,35 @@ Vesper should not only summarize missing data.
 
 It should help transform missing or unreliable data into reviewable operational work.
 
+### 6. Report to Task Workflow Demo
+
+File:
+
+```text
+07-report-to-task-workflow-demo.md
+```
+
+This demo shows how Vesper may transform weekly report findings into structured tasks, training tasks, SOP improvement tasks, approval checkpoints, and operational memory.
+
+It includes:
+
+- Weekly Report
+- Report Finding List
+- Data Completion Task
+- Campaign Review Task
+- Host Training Task
+- Assistant Data Quality Training Task
+- SOP Improvement Tasks
+- Approval Checkpoint
+- Operational Memory Update
+- Generated Task Board
+
+Core idea:
+
+Vesper should not only generate reports.
+
+It should help convert report findings into executable, trackable, and reviewable task loops.
+
 ## Demo Principles
 
 All demos in this folder should follow these principles:
@@ -160,7 +189,7 @@ All demos in this folder should follow these principles:
 - Avoid real names, real partners, real accounts, real screenshots, or real operational records.
 - Avoid salary details, recruiting channels, raw interviews, private business plans, and customer-specific documents.
 - Show object-based workflow thinking.
-- Show how Vesper connects people, objects, sessions, metrics, reports, tasks, feedback, SOPs, data quality checks, and memory.
+- Show how Vesper connects people, objects, sessions, metrics, reports, tasks, feedback, SOPs, data quality checks, approval checkpoints, and memory.
 - Keep the demo understandable for public readers.
 - Do not expose private implementation details.
 
@@ -189,16 +218,16 @@ Future public demos may include:
 - Weekly people and training review
 - Account-level performance comparison
 - SOP improvement from repeated issues
-- Report-to-task workflow
 - Approval boundary demo
 - Cost and profit snapshot demo
 - Campaign performance comparison demo
 - Operational memory accumulation demo
 - Data quality governance demo
 - Cross-object risk detection demo
+- Human approval workflow demo
 
 ## Status
 
 This is an early public demo gallery.
 
-The private implementation may evolve separately as Vesper continues to develop its MCN module, people system, object system, workflow engine, approval layer, data quality layer, and reporting structure.
+The private implementation may evolve separately as Vesper continues to develop its MCN module, people system, object system, workflow engine, approval layer, data quality layer, task system, and reporting structure.
