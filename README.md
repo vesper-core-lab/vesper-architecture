@@ -6,6 +6,41 @@ This repository contains public architecture notes, design principles, non-sensi
 
 The core implementation is currently private while the system is under active prototyping.
 
+## Public Demo Gallery
+
+Vesper is currently publishing synthetic, non-sensitive demos to show how its object-based workflow model may work in real operational scenarios.
+
+These demos do not include real customer data, real partner information, internal screenshots, raw interviews, production configurations, server paths, or confidential business workflows.
+
+### MCN LiveOps Demos
+
+- [Livestream Session Demo](examples/mcn-demo/02-livestream-session-demo.md)
+
+  Shows how Vesper may transform a single livestream record into structured objects, stream metrics, feedback records, follow-up tasks, and a simple report.
+
+- [Weekly LiveOps Report Demo](examples/mcn-demo/03-weekly-liveops-report-demo.md)
+
+  Shows how Vesper may summarize multiple livestream sessions into a weekly operational report, detect data quality issues, generate feedback records, create follow-up tasks, and surface operational risks.
+
+### Public Demo Direction
+
+The public demo gallery is designed to show Vesper's direction without exposing private implementation details.
+
+Current demo focus:
+
+- Object-based operations
+- Livestream session modeling
+- Stream metric abstraction
+- Data quality checks
+- Feedback records
+- Follow-up tasks
+- Weekly reporting
+- Operational memory direction
+
+The goal is to demonstrate that Vesper is not a simple chatbot.
+
+Vesper is designed to help structure operational workflows around people, objects, events, reports, decisions, and tasks.
+
 ## Repository Map
 
 This repository is organized as follows:
