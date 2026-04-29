@@ -22,6 +22,10 @@ These demos do not include real customer data, real partner information, interna
 
   Shows how Vesper may summarize multiple livestream sessions into a weekly operational report, detect data quality issues, generate feedback records, create follow-up tasks, and surface operational risks.
 
+- [Product to Campaign Workflow Demo](examples/mcn-demo/04-product-to-campaign-workflow-demo.md)
+
+  Shows how Vesper may connect a product, campaign, creator task, livestream session, performance metrics, feedback, report, and follow-up task into a structured workflow.
+
 ### Public Demo Direction
 
 The public demo gallery is designed to show Vesper's direction without exposing private implementation details.
@@ -31,6 +35,7 @@ Current demo focus:
 - Object-based operations
 - Livestream session modeling
 - Stream metric abstraction
+- Product-to-campaign workflow connection
 - Data quality checks
 - Feedback records
 - Follow-up tasks
