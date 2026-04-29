@@ -10,7 +10,7 @@ The core implementation is currently private while the system is under active pr
 
 Vesper is currently publishing synthetic, non-sensitive demos to show how its object-based workflow model may work in real operational scenarios.
 
-These demos do not include real customer data, real partner information, internal screenshots, raw interviews, production configurations, server paths, or confidential business workflows.
+These demos do not include real customer data, real partner information, internal screenshots, raw interviews, production configurations, server paths, salary details, recruiting channels, or confidential business workflows.
 
 ### MCN LiveOps Demos
 
@@ -26,6 +26,10 @@ These demos do not include real customer data, real partner information, interna
 
   Shows how Vesper may connect a product, campaign, creator task, livestream session, performance metrics, feedback, report, and follow-up task into a structured workflow.
 
+- [Host Training Feedback Workflow Demo](examples/mcn-demo/05-host-training-feedback-workflow-demo.md)
+
+  Shows how Vesper may connect host profiles, livestream feedback, training tasks, SOP improvement, review snapshots, and operational memory.
+
 ### Public Demo Direction
 
 The public demo gallery is designed to show Vesper's direction without exposing private implementation details.
@@ -40,11 +44,14 @@ Current demo focus:
 - Feedback records
 - Follow-up tasks
 - Weekly reporting
+- Host training feedback
+- SOP improvement
+- Review snapshots
 - Operational memory direction
 
 The goal is to demonstrate that Vesper is not a simple chatbot.
 
-Vesper is designed to help structure operational workflows around people, objects, events, reports, decisions, and tasks.
+Vesper is designed to help structure operational workflows around people, objects, events, reports, decisions, tasks, feedback, SOPs, and memory.
 
 ## Repository Map
 
